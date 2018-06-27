@@ -1,0 +1,7 @@
+1) remove all punctuation (with the exception of end-of-line punction) -- for instance, "what's" will become "whats" 
+2) CHILDES tags indicating a long pause should be used to split what follows into a separate utterance
+3) remove all remaining CHILDES tags
+4) preserve speaker ID tags
+5) all that should remain is the original sequence of words
+
+A sample cleaned excerpt from the Manchester "Anne" corpus is provided.

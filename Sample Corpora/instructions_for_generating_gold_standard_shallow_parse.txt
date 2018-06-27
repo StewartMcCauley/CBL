@@ -1,0 +1,5 @@
+A sample excerpt of a shallow parsed corpus is provided. See paper for discussion of the shallow parsers used for English, French, and German.
+
+1) Prior to running the shallow parser on the corpus, remove speaker ID tags from the cleaned corpus
+2) Following shallow parsing, remove chunk tags (e.g., NP, VP, etc.)
+3) Mark all chunk boundaries with " || " -- see the example provided (anne.parsed)
