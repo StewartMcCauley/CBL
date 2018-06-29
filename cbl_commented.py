@@ -28,7 +28,7 @@ class MeanDict(dict):
 
 class CBL_Model:
     """Chunk-based Learner (CBL) model. McCauley &
-    Christiansen (2011, 2014, submitted)"""
+    Christiansen (2011, 2014, in press)"""
     def __init__(self):
         self.avg_tp = 0
         self.Unigrams = {}
